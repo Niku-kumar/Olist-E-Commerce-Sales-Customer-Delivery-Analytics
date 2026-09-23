@@ -227,8 +227,7 @@ Olist-E-Commerce-Sales-Customer-Delivery-Analytics/
 
 **Niku Kumar Yadav**
 
-- **LinkedIn:** [Niku Kumar Yadav](---
+Data Analytics | Python | SQL | Power BI
 
-## 👤 Author
-
-**Niku Kumar Yadav**
+- **GitHub:** [Niku Kumar Yadav](YOUR_GITHUB_LINK)
+- **LinkedIn:** [Niku Kumar Yadav](YOUR_LINKEDIN_LINK)
