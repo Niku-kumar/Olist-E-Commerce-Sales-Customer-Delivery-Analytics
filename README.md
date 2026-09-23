@@ -220,14 +220,3 @@ Olist-E-Commerce-Sales-Customer-Delivery-Analytics/
 ├── visuals/
 │
 └── README.md
-
----
-
-## 👤 Author
-
-**Niku Kumar Yadav**
-
-Data Analytics | Python | SQL | Power BI
-
-- **GitHub:** [Niku Kumar Yadav](YOUR_GITHUB_LINK)
-- **LinkedIn:** [Niku Kumar Yadav](YOUR_LINKEDIN_LINK)
